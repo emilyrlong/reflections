@@ -2,3 +2,7 @@ What happens when you initialize a repository? Why do you need to do it?
 
 When you initialize a repo you create a hidden git repo inside a directory. You use the commmand git init. Using git status can show you what files are in your directory.
 You need a git repo to easily see versions of your files.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is in between the working directory and the repository. It could be really helpful if you aren't ready for a commit quite yet, and want to separate files that you're working on and ones you're done with. It also helps so that you don't have to commit your whole directory.

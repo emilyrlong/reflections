@@ -1,0 +1,32 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Instead of searching the whole document, using diff allowed us to pinpoint the parts that changed. Typos are easy too look over when you're staring at the whole code.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Say you take your code in a direction that just isn't working, and you want to return to the old format. It's easier to just click on an old file than to go through and figure out what needs to be there.
+It will also help you check errors if you ever make a mistake in your code.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Google Docs would save too often in order for the diff function to be effective. Manually saving allows you to show the changes that are meaningful.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Google Docs doesn't really have a format where documents influence eachother or are linked. Git is designed for documents like html and css where they directly influence eachother and change together.
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log brings you to a page with all of the past commits and their descriptions. You can copy and paste their commit ids into a git diff command to see what lines were added or deleted.
+
+How might using version control make you more confident to make changes that could break something?
+
+You don't have to be afraid of losing code that works, so you might be more willing to try out some funky things.
+
+How Do You Want to Use Git?
+
+I'm going to use Git for work and for my art website.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I'll start with the website 

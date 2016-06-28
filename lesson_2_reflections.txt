@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When you initialize a repo you create a hidden git repo inside a directory. You use the commmand git init. Using git status can show you what files are in your directory.
+You need a git repo to easily see versions of your files.

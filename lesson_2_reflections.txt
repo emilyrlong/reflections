@@ -14,3 +14,11 @@ The staging area allows you to track the progress of your work without making an
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Branches will be really helpful in situations where you're not sure if you want to go in a certain direction and just want to try things out.
+
+How do the diagrams help you visualize the branch structure?
+
+The diagrams help show where the branches diverge. It may help us understand what changes need to me made to a branch, or where branches need to merge.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+When you merge two branches, git filters through the different lines and decides which ones need to be kept in the master branch. The diagram helps us visualize which commits were added to which branches.

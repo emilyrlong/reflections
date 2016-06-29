@@ -22,3 +22,7 @@ The diagrams help show where the branches diverge. It may help us understand wha
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 When you merge two branches, git filters through the different lines and decides which ones need to be kept in the master branch. The diagram helps us visualize which commits were added to which branches.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros are that Git can work through a lot of the simple merges like the lines that are the same. Cons may be that it accidentally merges something, but it shouldn't because it alerts the programmers to conflicts in the merge.

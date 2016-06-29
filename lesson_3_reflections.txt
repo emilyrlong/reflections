@@ -1,5 +1,7 @@
 When would you want to use a remote repository rather than keeping all your work local?
 
-A remote repository can come in handy if you're using multiple computers or collaborating with a group. 
-It also is probably a good way to make sure that you have your work saved somewhere just in case anything 
-goes wrong with your computer.
+A remote repository can come in handy if you're using multiple computers or collaborating with a group. It also is probably a good way to make sure that you have your work saved somewhere just in case anything goes wrong with your computer.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Because most of the time your files are public on Github, you might not want to push your changes to github until you've accomplished something with your project. Pushing to github is probably best when you've finished a part of the project or are wrapping up for the day.

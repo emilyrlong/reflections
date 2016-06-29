@@ -1,0 +1,5 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+A remote repository can come in handy if you're using multiple computers or collaborating with a group. 
+It also is probably a good way to make sure that you have your work saved somewhere just in case anything 
+goes wrong with your computer.
